@@ -1,0 +1,30 @@
+{
+	"name": "safe-push-apply",
+	"version": "0.0.0",
+	"description": "Push an array of items into an array, while being robust against prototype modification",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/safe-push-apply.git"
+	},
+	"keywords": [
+		"array",
+		"push",
+		"apply",
+		"pushApply",
+		"safe"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/safe-push-apply/issues"
+	},
+	"homepage": "https://github.com/ljharb/safe-push-apply#readme"
+}
