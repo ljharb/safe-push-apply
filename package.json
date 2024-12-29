@@ -1,6 +1,6 @@
 {
 	"name": "safe-push-apply",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Push an array of items into an array, while being robust against prototype modification",
 	"main": "index.js",
 	"exports": {
